@@ -1,0 +1,1 @@
+api.openweathermap.org/data/2.5/forecast/city?id=524901&APPID=08ba73647ad53c468a82fa45c4f62216
